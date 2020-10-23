@@ -1,0 +1,5 @@
+Droit d'écriture au dossier:
+
+sudo chmod a+rw templates_c
+sudo chmod a+rw cache
+
